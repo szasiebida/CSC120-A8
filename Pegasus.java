@@ -175,4 +175,9 @@ public class Pegasus implements Contract {
         this.y=0;
     }
 
+    public static void main(String[] args) {
+        Pegasus mypegasus=new Pegasus("meow");
+        System.out.println(mypegasus.energylevel);
+    }
+
 }
