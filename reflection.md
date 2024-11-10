@@ -4,7 +4,10 @@ Use this file to record your reflection on this assignment.
 - What additional methods (if any) did you implement alongside those listed in the interface?
 - What worked, what didn't, what advice would you give someone taking this course in the future?
 
-pegasus who collects flowers
+
+
+
+below are some notes that I took for planning:
 
 attributes 
 - position, height/size of pegasus, inventory of flowers, inventory of seeds??, energy level
