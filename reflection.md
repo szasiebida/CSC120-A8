@@ -4,7 +4,7 @@ Use this file to record your reflection on this assignment.
 - What additional methods (if any) did you implement alongside those listed in the interface?
 - What worked, what didn't, what advice would you give someone taking this course in the future?
 
-
+My class is a pegasus class. I imagine this as the start of a game in which the pegasus is the protagonist and can do all of the implemented methods to advance gameplay. My ideal game would have the innventory made up of flowers where the use function would used be to plant the flowers but I was struggling to figure out how to implement this. Additionally, I imagine that the flowers in the innentory could be their own class with their attributes which would improve the function of the examine method. This level of detail was just a little bit out of the scope of this assignment. I had difficulty with this assignment figuring out how to make the methods make sense for my implementation. 
 
 
 below are some notes that I took for planning:
